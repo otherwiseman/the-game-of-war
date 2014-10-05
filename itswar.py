@@ -2,7 +2,7 @@
 Simulate the card game War. A reminder of the basic rules:
 1. Each player gets 26 cards. The deck of [52] gets split equally.
 2. Each player flips one of their cards, higher card wins, winner takes both.
-3. In 2 cards played are of equal value, then a war ensues.Both players place
+3. If 2 cards played are of equal value, then a war ensues.Both players place
    the next 3 cards of their pile face down, and then another card face-up.
    Winner is the owner of the higher value face-up card. If face-up cards are
    equal, another war ensues until one player has a card higher then their
